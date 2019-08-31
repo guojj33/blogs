@@ -1,6 +1,6 @@
 ---
 layout: default
-title: hello
+title: Hello
 ---
 
 ## About Me
