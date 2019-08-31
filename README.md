@@ -1,1 +1,1 @@
-[Home Page](https://guojj33.github.io/blogs)
+[Blog Home Page](https://guojj33.github.io/blogs)
