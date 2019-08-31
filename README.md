@@ -1,1 +1,1 @@
-# 博客主页
+[Home Page](https://guojj33.github.io/blogs)
