@@ -9,4 +9,4 @@ nobody
 
 ## Other Platforms
 
-[bilibili](https://space.bilibili.com/224709387/)
+<a href = "https://space.bilibili.com/224709387/" target = "_blank">bilibili</a>
