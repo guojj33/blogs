@@ -9,4 +9,4 @@ nobody
 
 ## Other Platforms
 
-<a href = "https://space.bilibili.com/224709387/" target = "_blank">[bilibili](images/bilibili.png)</a><a href = "https://space.bilibili.com/224709387/" target = "_blank">bilibili</a>
+<a href = "https://space.bilibili.com/224709387/" target = "_blank">![bilibili](images/bilibili.png)</a><a href = "https://space.bilibili.com/224709387/" target = "_blank">bilibili</a>
