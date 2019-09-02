@@ -30,11 +30,11 @@
 配置完后，一般情况下总共有两块网卡  
 ![](1-images/1.PNG)
 
-* 选中虚拟机，VirtualBox菜单 -> 控制 -> 设置 -> 网络  
+* 选中虚拟机，VirtualBox菜单 -> 控制 -> 设置 -> 网络，其中  
 网卡1，默认就是NAT  
 ![](1-images/网卡1.PNG)
 新建网卡2，界面名称选择上一步新创建的网卡#2  
-![](1-images/网卡2.PNG)
+![](1-images/网卡2.PNG)  
 
 3. 安装VirtualBox Extension Pack
 
