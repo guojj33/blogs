@@ -22,7 +22,9 @@
 
 ### 2.安装虚拟机并做网卡配置
 
-#### 1. 利用VBox向导新建虚拟机并安装增强功能 [(安装增强功能错误？)](https://blog.csdn.net/Loisleen/article/details/84975165)
+#### 1. 利用VBox向导新建虚拟机并安装增强功能
+
+* [安装增强功能失败?](https://blog.csdn.net/Loisleen/article/details/84975165)
 
 #### 2. 配置网卡
 
