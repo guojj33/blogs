@@ -14,17 +14,17 @@
 
 ### 1.下载所需软件
 
-* [Oracle VirtualBox (Windows hosts)](https://www.virtualbox.org/wiki/Downloads)
+* <a href = "https://www.virtualbox.org/wiki/Downloads" target = "_blank">Oracle VirtualBox (Windows hosts)</a>
 
-* [Orcale VM VirtualBox Extension Pack](https://www.virtualbox.org/wiki/Downloads)
+* <a href = "https://www.virtualbox.org/wiki/Downloads" target = "_blank">Orcale VM VirtualBox Extension Pack</a>
 
-* [ubuntu](https://ubuntu.com/download#download)
+* <a href = "https://ubuntu.com/download#download" target = "_blank">ubuntu</a>
 
 ### 2.安装虚拟机并做网卡配置
 
 #### 1. 利用VBox向导新建虚拟机并安装增强功能
 
-* [安装增强功能失败?](https://blog.csdn.net/Loisleen/article/details/84975165)
+* <a href = "https://blog.csdn.net/Loisleen/article/details/84975165" target = "_blank">安装增强功能失败?</a>
 
 #### 2. 配置网卡
 
