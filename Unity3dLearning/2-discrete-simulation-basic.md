@@ -75,9 +75,9 @@
         * 第三个选择框是Mesh Filter，可以定义对象的模型。
         * 第四个选择框是Box Collider，可以调整坐标系原点的位置，大小。
         * 第五个选择框是Mesh Renderer，用于渲染模型，可以调节各种渲染效果。
-        * 第六个选择框是Default-Material，可以调整对象的颜色，材质等。
+        * 第六个选择框是Default-Material，可以调整对象的颜色，材质等。  
         ![workwork](2-images/homework.png)
-    3. 用UML图描述三者的关系
+    3. 用UML图描述三者的关系  
         ![](2-images/uml.PNG)
 
 5. ### 整理相关学习资料，编写简单代码验证以下技术的实现：
@@ -233,7 +233,9 @@
 
     * 控制台输出  
         ![](2-images/message.PNG)
+        
 ## 编程实践，小游戏
+
 * 游戏内容：井字棋
 * 技术限制：仅允许使用 **[IMGUI](https://docs.unity3d.com/Manual/GUIScriptingGuide.html)** 构建UI
 * 作业目的： 
