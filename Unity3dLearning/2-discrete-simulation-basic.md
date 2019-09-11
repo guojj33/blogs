@@ -245,13 +245,13 @@ public class createTable : MonoBehaviour {
     ```
 
 * 控制台输出  
-    ![](2-images/message.PNG)
+![](2-images/message.PNG)
 
 ## 编程实践，小游戏
 
-### 1. 游戏内容：井字棋
-### 2. 技术限制：仅允许使用 **[IMGUI](https://docs.unity3d.com/Manual/GUIScriptingGuide.html)** 构建UI
+### 1. 游戏内容：井字棋  
+### 2. 技术限制：仅允许使用 **[IMGUI](https://docs.unity3d.com/Manual/GUIScriptingGuide.html)** 构建UI  
 ### 3. 作业目的： 
 * 提升debug能力
-* 提升阅读API文档能力
+* 提升阅读API文档能力  
 ### 4. 作业代码及报告地址：[https://github.com/guojj33/TicTacToe](https://github.com/guojj33/TicTacToe)
