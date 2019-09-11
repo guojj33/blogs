@@ -16,7 +16,8 @@
     1. 基本行为包括 Awake() Start() Update() FixedUpdate() LateUpdate()
     2. 常用事件包括 OnGUI() OnDisable() OnEnable()
     
-    * 代码  
+    * 代码
+
     ```
     using System.Collections;
     using System.Collections.Generic;
@@ -86,6 +87,7 @@
     4. 清除所有子对象
 
     * 代码
+
     ```
     using System.Collections;
     using System.Collections.Generic;
@@ -154,7 +156,8 @@
         * 创建table预设  
             ![](2-images/tablePrefab.PNG)
         * 创建空对象  
-        * 编写C#脚本，添加到创建的空对象中  
+        * 编写C#脚本，添加到创建的空对象中
+
         ```
         using System.Collections;
         using System.Collections.Generic;
@@ -175,6 +178,7 @@
             }
         }
         ```
+
         * 将空对象中脚本组件的tablePrefab属性值设置为创建好的table预设  
             ![](2-images/empty.PNG)  
         * 运行  
@@ -183,6 +187,7 @@
     * 组合模式：组合模式又叫部分整体模式，它将对象组合成树形结构表现“整体-部分”的层次结构，使得用户可以以一致的方式处理单个对象或对象的组合。
     * 代码
     * table.cs 父对象
+
         ```
         using System.Collections;
         using System.Collections.Generic;
@@ -202,6 +207,7 @@
         }
         ```
     * chair.cs 子对象
+
         ```
         using System.Collections;
         using System.Collections.Generic;
@@ -224,6 +230,7 @@
             }
         }
         ```
+
     * 控制台输出  
         ![](2-images/message.PNG)
 ## 编程实践，小游戏
@@ -231,5 +238,5 @@
 * 技术限制：仅允许使用 **[IMGUI](https://docs.unity3d.com/Manual/GUIScriptingGuide.html)** 构建UI
 * 作业目的： 
     * 提升debug能力
-    * #提升阅读API文档能力
+    * 提升阅读API文档能力
 * 作业代码及报告地址：[https://github.com/guojj33/TicTacToe](https://github.com/guojj33/TicTacToe)
