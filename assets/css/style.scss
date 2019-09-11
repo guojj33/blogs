@@ -3,12 +3,8 @@
 
 @import "{{ site.theme }}";
 
-h1{
-    color: #000000;
-}
-
 h6{
-    color: #000000;
+    color: #000000 !important;
 }
 
 .page-header{
