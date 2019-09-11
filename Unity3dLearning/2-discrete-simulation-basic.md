@@ -1,4 +1,9 @@
+---
+title: 2-discrete-simulation-basic
+---
+
 # Unity3d离散仿真引擎基础
+
 ## 简答题
 1. ### 解释游戏对象（GameObjects）和资源（Assets）的区别与联系。
     * **[游戏对象](https://docs.unity3d.com/Manual/class-GameObject.html)：**   
@@ -233,7 +238,7 @@
 
     * 控制台输出  
         ![](2-images/message.PNG)
-        
+
 ## 编程实践，小游戏
 
 * 游戏内容：井字棋
