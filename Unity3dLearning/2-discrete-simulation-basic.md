@@ -1,8 +1,8 @@
 ---
-title: 2-discrete-simulation-basic
+title: 2-Discrete Simulation Basic
 ---
 
-# Unity3d离散仿真引擎基础
+## Unity3d离散仿真引擎基础
 
 ## 简答题
 ### 1. 解释游戏对象（GameObjects）和资源（Assets）的区别与联系。  
