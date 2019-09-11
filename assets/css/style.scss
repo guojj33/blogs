@@ -4,12 +4,12 @@
 @import "{{ site.theme }}";
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6{
-    color: #000000 !important;
+    color: #24292e !important;
 }
 
 .page-header{
-    background-image: url('../../images/banner.png');
-    background-color: #ffffff;
+    background-image: none;
+    background-color: #24292e;
     background-position: 50% 50%;
     background-repeat: no-repeat;
     width: 100%;
