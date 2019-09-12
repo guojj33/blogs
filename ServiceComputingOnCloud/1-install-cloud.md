@@ -58,3 +58,7 @@ title: 1-Install Cloud
 ![](1-images/remote.PNG)  
 点击连接，即可访问  
 ![](1-images/result.PNG)  
+
+---
+
+[返回目录](https://guojj33.github.io/blogs/ServiceComputingOnCloud-Catalog)
