@@ -4,7 +4,7 @@ title: About
 
 ## About Me
 
-nobody
+JJ Guo
 
 ## Other Platforms
 
