@@ -61,4 +61,4 @@ title: 1-Install Cloud
 
 ---
 
-[返回目录](https://guojj33.github.io/blogs/ServiceComputingOnCloud-Catalog)
+[返回目录](..//ServiceComputingOnCloud-Catalog)
