@@ -4,7 +4,7 @@ title: About
 
 ## About Me
 
-JJ Guo
+Jiajun Guo
 
 ## Other Platforms
 
