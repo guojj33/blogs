@@ -1,5 +1,5 @@
 ---
-title: 2-Discrete Simulation Basic
+title: Discrete Simulation Basic
 ---
 
 ## Unity3d离散仿真引擎基础

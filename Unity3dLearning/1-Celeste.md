@@ -1,8 +1,8 @@
 ---
-title: 1-Celeste
+title: Celeste
 ---
 
-## 游戏介绍 ——《[蔚蓝](http://www.celestegame.com/)》
+## 游戏介绍 —《[蔚蓝](http://www.celestegame.com/)》
 #### [返回目录](../Unity3dLearning-Catalog)
 ---
 ### 介绍
@@ -16,6 +16,7 @@ title: 1-Celeste
 #### 2. 场景、机关、环境道具丰富。
 控制方法简单，但实际操作起来很有挑战性，需要精确把握的位置和时机。除了普通的障碍，游戏中还会遇到“自己的一部分”、幽灵等反派，有一种从跳跃游戏变成战斗游戏的错觉。  
 ![](1-images/anotherMe.jpg)
+![](1-images/war.jpg)
 
 #### 3. 游戏在难度设计上分了多个层级，供玩家选择。  
 可以选择帮助模式，快速通关，欣赏配乐和画面。也可以探索破解难度更高的B面、C面和额外章节。  
@@ -25,9 +26,9 @@ title: 1-Celeste
 在游戏中找到并挑战某些关卡，将草莓收入囊中，最终会稍微影响最终的结局。收集磁带，可以解锁章节的B面。游戏的原型Pico-8也作为彩蛋之一供玩家去发现。   
 ##### Pico-8  
 ![](1-images/egg.jpg)  
-##### 角色Theo曾提到他的所谓InstaPix账号  
+##### 角色Theo曾提到他的InstaPix账号  
 ![](1-images/egg2.jpg)  
-##### 实际上他的确有Instagram账号  
+##### Theo在真实世界中的Instagram账号  
 ![](1-images/ins.jpg)  
 
 #### 5. 游戏的剧情富有人文关怀。  

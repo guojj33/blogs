@@ -1,5 +1,5 @@
 ---
-title: 1-Install Cloud
+title: Install Cloud
 ---
 
 ## Win10中使用VirtualBox搭建ubuntu私有云桌面
