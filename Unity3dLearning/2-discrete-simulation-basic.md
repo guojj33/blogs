@@ -256,7 +256,7 @@ public class createTable : MonoBehaviour {
 * 提升debug能力
 * 提升阅读API文档能力  
 
-### 4. 作业代码及报告地址：[https://github.com/guojj33/TicTacToe](https://github.com/guojj33/TicTacToe)
+### 4. 作业代码及报告地址：[https://github.com/guojj33/Unity3DLearning/tree/master/HW2](https://github.com/guojj33/Unity3DLearning/tree/master/HW2)
 
 ---
 
