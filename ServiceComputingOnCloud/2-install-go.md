@@ -27,7 +27,7 @@ title: Install go
 
 - #### 创建工作空间
     go work是工作空间名，可自定义    
-    `$ mkdir $HOMW/gowork`
+    `$ mkdir $HOME/gowork`
 
 - #### 配置环境变量  
     `$ vim ~/.bashrc`  
