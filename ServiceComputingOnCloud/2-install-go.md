@@ -1,5 +1,5 @@
 ---
-Install go
+title: Install go
 ---
 
 ## ubuntu安装go语言开发环境并使用go编程
