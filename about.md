@@ -12,7 +12,7 @@ Jiajun Guo
 
 ## Support Me
 
-<a href = "https://github.com/guojj33/blogs/blob/gh-pages/images/WeChatPay.JPG?raw=true" target = "_blank">WeChat Pay</a>
+<a href = "https://github.com/guojj33/blogs/blob/gh-pages/images/WeChatPay.png?raw=true" target = "_blank">WeChat Pay</a>
 
 ---
 
