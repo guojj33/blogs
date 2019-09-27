@@ -5,7 +5,7 @@ title: Space and Motion
 ## 空间与运动
 ### [返回目录](../Unity3dLearning-Catalog)
 ---
-## 简答题
+## 操作演练
 ### 1. 游戏对象运动的本质是什么？
 游戏对象的运动是游戏对象的控件属性，包括 transform 中的 position 和 rotation 属性，跟随每一帧的变化而实现的
 
