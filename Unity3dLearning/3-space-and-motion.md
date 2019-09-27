@@ -13,7 +13,7 @@ title: Space and Motion
 抛物线的特点是，水平方向速度不变，竖直方向速度均匀增加  
 ![parabola](3-images/run.gif)
 
-1. 改变 position
+1. 改变 position  
 ```C#
 using System.Collections;
 using System.Collections.Generic;
@@ -36,7 +36,7 @@ public class parabolicMotion : MonoBehaviour {
 }
 ```
 
-2. 改写第一种方法，创建 Vector3 
+2. 改写第一种方法，创建 Vector3  
 ```C#
 using System.Collections;
 using System.Collections.Generic;
@@ -58,7 +58,7 @@ public class parabolicMotion : MonoBehaviour {
 }
 ```
 
-3. 改写第二种方法，调用 Translate 函数
+3. 改写第二种方法，调用 Translate 函数  
 ```C#
 using System.Collections;
 using System.Collections.Generic;
@@ -127,7 +127,7 @@ public class solar : MonoBehaviour {
 ![run](3-images/run2.gif)
 ## 编程实践
 ### 牧师与魔鬼 Priests And Devils
-[传送门](https://github.com/guojj33/Unity3DLearning/tree/master/HW3)
+<a href = "https://github.com/guojj33/Unity3DLearning/tree/master/HW3" target = "_blank">传送门</a>
 
 ---
 
