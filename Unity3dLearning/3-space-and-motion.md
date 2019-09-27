@@ -13,7 +13,7 @@ title: Space and Motion
 抛物线的特点是，水平方向速度不变，竖直方向速度均匀增加  
 ![parabola](3-images/run.gif)
 
-1. 改变 position  
+#### 2.1 改变 position  
 ```C#
 using System.Collections;
 using System.Collections.Generic;
@@ -36,7 +36,7 @@ public class parabolicMotion : MonoBehaviour {
 }
 ```
 
-2. 改写第一种方法，创建 Vector3  
+#### 2.2 改写第一种方法，创建 Vector3  
 ```C#
 using System.Collections;
 using System.Collections.Generic;
@@ -58,7 +58,7 @@ public class parabolicMotion : MonoBehaviour {
 }
 ```
 
-3. 改写第二种方法，调用 Translate 函数  
+#### 2.3 改写第二种方法，调用 Translate 函数  
 ```C#
 using System.Collections;
 using System.Collections.Generic;
