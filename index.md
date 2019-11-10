@@ -9,6 +9,8 @@ title: Home
 
 ## [Unity 3D Learning](Unity3dLearning-Catalog)
 
+## [Grid World](GridWorld-Catalog)
+
 ---
 
 ## [About](about)
