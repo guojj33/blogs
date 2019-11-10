@@ -192,14 +192,18 @@ title: 自学报告
     ![](studyreport-images/1.PNG)
 
 #### 4.2 使用 Ant 运行 Junit 测试
+- [下载 junit.jar](https://sourceforge.net/projects/junit/)
+
 - 创建文件结构
     ```
     HelloWorld
+        |--- build.xml
         |--- src
               |--- helloWorld
                         |--- HelloWorld.java
               |--- HelloWorldTest.java
-        |--- build.xml
+        |--- lib
+              |--- junit-4.10.jar
     ```
 - HelloWorld.java
     ```java
