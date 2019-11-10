@@ -22,6 +22,7 @@ title: 自学报告
     - 如果没有输入 ``w``，则退出时文件不会保存在目录下
 
 ### 2. Java 安装与使用
+
 #### 2.1 JDK 安装
 - [官网下载](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 - 解压
@@ -99,6 +100,7 @@ title: 自学报告
     ```
     ant -version
     ```
+
 #### 3.2 [Ant 简单使用](http://www.blogjava.net/amigoxie/archive/2007/11/09/159413.html)
 - 创建文件结构如下  
     ```
@@ -134,8 +136,8 @@ title: 自学报告
     ant
     ```
     默认目标是 run ，run 依赖于 compile ， compile 依赖于 clean 。因此首先会清除 build/ 中的内容， 然后编译，最后运行。
-### 4. Junit 使用
 
+### 4. Junit 使用
 #### 4.1 [eclipse 中 Junit 使用](https://blog.csdn.net/fulishafulisha/article/details/80158392)
 - [ubuntu 中 eclipse 安装](https://www.cnblogs.com/zyrblog/p/8548270.html)
 - 用 eclipse 新建工程目录如下
