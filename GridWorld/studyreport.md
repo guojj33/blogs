@@ -2,7 +2,7 @@
 title: 自学报告
 ---
 
-## vim, Java, Ant 和 Junit 自学报告
+## Vim, Java, Ant 和 Junit 自学报告
 ### [返回目录](../GridWorld-Catalog)
 
 ### 环境
@@ -272,6 +272,7 @@ title: 自学报告
     ```
 - 运行
     ``ant junit``
+
 ### 5. [sonarQube 使用](https://se-2019.github.io/resources/sonarqube-tutorial-v1.pdf)
 
 ---
