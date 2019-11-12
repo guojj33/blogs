@@ -8,8 +8,9 @@
 }
 
 .page-header{
-    background-image: none;
-    background-color: #24292e;
+    background-image: url("../images/banner.jpg");
+    background-attachment: fixed;;
+    //background-color: #24292e;
     background-position: 50% 50%;
     background-repeat: no-repeat;
     width: 100%;
