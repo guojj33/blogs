@@ -10,7 +10,8 @@
 .page-header{
     background-image: url("../images/banner.jpg");
     background-attachment: fixed;;
-    //background-color: #24292e;
+    background-color: gray;
+    background-blend-mode: multiply;
     background-position: 50% 50%;
     background-repeat: no-repeat;
     width: 100%;
