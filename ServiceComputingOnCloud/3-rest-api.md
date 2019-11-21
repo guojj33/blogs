@@ -5,25 +5,28 @@ title: REST API
 ## 模仿 Github API 编写设计博客网站的部分 REST API
 ### [返回目录](../ServiceComputingOnCloud-Catalog)
 
-### 域名
+### 一、域名
 ```
 https://api.blog.com
 ```
-### 请求或返回数据格式
+### 二、请求或返回数据格式
 Json
-### http 动词
+### 三、http 动词
+
 名称|含义
 :-:|:-:
 GET|从服务器取出资源
 POST|在服务器新建一个资源
 PUT|在服务器更新资源（客户端提供改变后的完整资源）
 DELETE|从服务器删除资源
-### API 列表
-#### 登陆账号/授权
+
+### 四、API 列表
+#### 1. 登陆账号/授权
 ```
 curl -u username:password https://api.blog.com/users
 ```
-#### 获得用户主页
+
+#### 2. 获得用户主页
 - 表示
     ```
     GET /users/:username
@@ -45,7 +48,8 @@ curl -u username:password https://api.blog.com/users
         "organization": "Sun Yat-sen University"
     }
     ```
-#### 获得用户所有博客列表
+
+#### 3. 获得用户所有博客列表
 - 表示  
     ```
     GET /articles/:username
@@ -80,7 +84,8 @@ curl -u username:password https://api.blog.com/users
         ]
     }
     ```
-#### 获得一篇博客详细内容
+
+#### 4. 获得一篇博客详细内容
 - 表示  
     ```
     GET /articles/:username/{id}
@@ -111,7 +116,8 @@ curl -u username:password https://api.blog.com/users
         "read_count": 1
     }
     ```
-#### 更新一篇博客
+
+#### 4. 更新一篇博客
 - 表示  
     ```
     PUT /articles/:username/{id}
@@ -148,7 +154,7 @@ curl -u username:password https://api.blog.com/users
     }
     ```
 
-#### 发布一篇博客
+#### 5. 发布一篇博客
 - 表示  
     ```
     POST /articles/:username
@@ -189,7 +195,7 @@ curl -u username:password https://api.blog.com/users
     }
     ```
 
-#### 删除一篇博客
+#### 6. 删除一篇博客
 - 表示
     ```
     DELETE /articles/:username/{id}
@@ -212,7 +218,7 @@ curl -u username:password https://api.blog.com/users
         "deleted_at": "2019-11-21T18:00:00Z"
     }
     ```
-#### 按内容搜索博客
+#### 7. 按内容搜索博客
 - 表示
     ```
     POST /search/articles{username}{content}
