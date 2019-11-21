@@ -117,6 +117,7 @@ curl -u username:password https://api.blog.com/users
     PUT /articles/:username/{id}
     ```
 - 所需参数  
+
     名称 |类型 |可选性|含义
     :--:|:--:|:--:|:--:
     content|string|Required|修改后的博客内容
@@ -153,6 +154,7 @@ curl -u username:password https://api.blog.com/users
     POST /articles/:username
     ```
 - 所需参数  
+
     名称 |类型 |可选性|含义
     :--:|:--:|:--:|:--:
     title|string|Required|标题
@@ -216,6 +218,7 @@ curl -u username:password https://api.blog.com/users
     POST /search/articles{username}{content}
     ```
 - 所需参数
+
     名称 |类型 |可选性|含义
     :--:|:--:|:--:|:--:
     username|string|Optional|只在该用户的博客中寻找
