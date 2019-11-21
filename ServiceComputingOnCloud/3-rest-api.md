@@ -117,7 +117,7 @@ curl -u username:password https://api.blog.com/users
     }
     ```
 
-#### 4. 更新一篇博客
+#### 5. 更新一篇博客
 - 表示  
     ```
     PUT /articles/:username/{id}
@@ -154,7 +154,7 @@ curl -u username:password https://api.blog.com/users
     }
     ```
 
-#### 5. 发布一篇博客
+#### 6. 发布一篇博客
 - 表示  
     ```
     POST /articles/:username
@@ -195,7 +195,7 @@ curl -u username:password https://api.blog.com/users
     }
     ```
 
-#### 6. 删除一篇博客
+#### 7. 删除一篇博客
 - 表示
     ```
     DELETE /articles/:username/{id}
@@ -218,7 +218,8 @@ curl -u username:password https://api.blog.com/users
         "deleted_at": "2019-11-21T18:00:00Z"
     }
     ```
-#### 7. 按内容搜索博客
+
+#### 8. 按内容搜索博客
 - 表示
     ```
     POST /search/articles{username}{content}
