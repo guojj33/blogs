@@ -11,6 +11,8 @@ title: Home
 
 ## [Grid World](GridWorld-Catalog)
 
+## [各种解决](Solutions-Catalog)
+
 ---
 
 ## [About](about)
