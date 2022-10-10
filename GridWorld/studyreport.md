@@ -124,7 +124,7 @@ title: 自学报告
         </target>
 
         <target name="run" depends="compile">
-            <java classname="HelloWorld">
+            <java classname="src.HelloWorld">
                 <classpath>
                     <pathelement path="build/classes"/>
                 </classpath>
