@@ -148,18 +148,15 @@ title: 自学报告
         |--- src
               |--- helloWorld
                         |--- HelloWorld.java
-        |--- test
-              |--- helloWorld
-                        |--- HelloWorldTest.java
+              |--- HelloWorldTest.java
     ```
 
 - 添加 Junit
-    右键工程，点击 Properties -> Java Build Path -> Libraries -> Add Library -> JUnit -> Next -> Finish ，可以看到工程目录下多了 JUnit 5 子目录。
+    右键工程，点击 Properties -> Java Build Path -> Libraries -> Classpath -> Add Library -> JUnit -> Next -> Finish ，可以看到工程目录下多了 JUnit 5 子目录。
 
 - HelloWorld.java
     ```java
     package helloWorld;
-    import java.util.*;
 
     public class HelloWorld {
         public String getHelloWorld() {
@@ -176,7 +173,7 @@ title: 自学报告
 - HelloWorldTest.java  
     测试 HelloWorld.java 中的 getHelloWorld 函数  
     ```java
-    package helloWorld;
+    import helloWorld.HelloWorld;
     import static org.junit.Assert.*;
     import org.junit.Test;
 
