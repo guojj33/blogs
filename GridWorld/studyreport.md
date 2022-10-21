@@ -190,6 +190,8 @@ title: 自学报告
     ![](studyreport-images/1.PNG)
 
 #### 4.2 使用 Ant 运行 Junit 测试
+- [源代码（含命令行使用方法）](https://github.com/guojj33/blogs/tree/gh-pages/GridWorld/studyreport-codes/HelloWorld)
+
 - [下载 junit.jar](https://sourceforge.net/projects/junit/)
 
 - 创建文件结构

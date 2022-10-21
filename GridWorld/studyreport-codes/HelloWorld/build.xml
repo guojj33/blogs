@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<project name="HelloWorld" default="run" basedir=".">
+	<path id="compile.path">
+		<pathelement location="lib/junit-4.10.jar" />	
+	</path>
+
+	<target name="clean">
+		<delete dir="build"/>
+		<mkdir dir="build/classes"/>
+	</target>
+
+	<target name="compile" depends="clean">
+		<javac srcdir="src" destdir="build/classes/" classpathref="compile.path" includeantruntime="true">
+		</javac>
+	</target>
+
+	<target name="run" depends="compile">
+		<java classname="helloWorld.HelloWorld" fork="true">
+			<classpath path="build/classes">
+			</classpath>
+		</java>
+	</target>
+
+	<target name="junit" depends="compile">
+		<junit printsummary="true">
+			<classpath path="build/classes/">
+				<path refid="compile.path"/>
+			</classpath>
+			<batchtest>
+				<fileset dir="src/">
+					<include name="*Test.java" />
+				</fileset>
+			</batchtest>
+		</junit>
+	</target>
+</project>
